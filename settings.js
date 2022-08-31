@@ -1,6 +1,6 @@
 //════════════(00)════════════════\\
 //
-//          DULA BOT v1.0
+//          HIMA BOT v1.0
 //
 //════════════(00)════════════════\\
 
@@ -19,31 +19,31 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is 🅳ᴜ🅻ᴀ 🅱ᴏ🆃🔥
-My Creator is Dulan Maduranga😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is 🅷ɪ🅼ᴀ 🅱ᴏ🆃🔥
+My Creator is HIMAL NUWANSARA😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94762472947'] //Owner number in aive msg
-global.premium = ['+94762472947'] //Owner Number info
-global.ownernomer = '+94762472947' //Owner Number <<<
+global.owner = ['+94760096709'] //Owner number in aive msg
+global.premium = ['+94760096709'] //Owner Number info
+global.ownernomer = '+94760096709' //Owner Number <<<
 
-global.ownername = '😎Dulan Maduranga' //Owner Name
-global.botname = ' 🅳ᴜ🅻ᴀ 🅱ᴏ🆃' //Bot Name
+global.ownername = 'HIMAL NUWANSARA' //Owner Name
+global.botname = ' 🅷ɪ🅼ᴀ 🅱ᴏ🆃' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://youtube.com/channel/UC7FBRXqHMM7uEa1yz4vXxeA' //Change Your Button's URL
 
 global.region = 'Sri lanka,North Central, Kekirawa' //Country Region
 
-global.packname = '🅳ᴜ🅻ᴀ 🅱ᴏ🆃' //Bot Pacage Name
-global.author = '😎Dulan Maduranga' //Author Name
+global.packname = '🅷ɪ🅼ᴀ 🅱ᴏ🆃' //Bot Pacage Name
+global.author = '😎🅷ɪ🅼ᴀ 🅼ᴏ🅳ᴢ' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = 'Dulan Maduranga' //In list menu
+global.footer = 'HIMA' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://github.com/HIMALNUWANSARA' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
