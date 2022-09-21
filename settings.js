@@ -29,8 +29,8 @@ global.ownernomer = '+94760096709' //Owner Number <<<
 global.ownername = 'HIMAL NUWANSARA' //Owner Name
 global.botname = ' 🅷ɪ🅼ᴀ 🅱ᴏ🆃' //Bot Name
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtube.com/channel/UC7FBRXqHMM7uEa1yz4vXxeA' //Change Your Button's URL
+global.button = 'whatApp Group' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://chat.whatsapp.com/DPD5mVBDiA0GbiQ5e3jdsd' //Change Your Button's URL
 
 global.region = 'Sri lanka,North Central, Kekirawa' //Country Region
 
